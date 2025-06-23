@@ -39,7 +39,7 @@ You can add screenshots of your dashboard here for quick reference.
 markdown
 Copy
 Edit
-![Dashboard Preview](screenshots/overview.png)
+![Dashboard Preview](C:\Users\sriva\OneDrive\Pictures\Screenshotsoverview.png)
 📈 Use Cases
 Business performance tracking
 
