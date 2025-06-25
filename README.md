@@ -32,14 +32,9 @@ Open it using Power BI Desktop.
 Ensure the Excel source file (Power BI - Final Project.xlsx) is in the same directory or relink it in Power BI if prompted.
 
 Explore the report and interact with filters and slicers.
+![overview](https://github.com/user-attachments/assets/20351125-46f9-48cf-bd8f-0df972ae5845)
 
-🖼️ Dashboard Preview
-You can add screenshots of your dashboard here for quick reference.
 
-markdown
-Copy
-Edit
-![Dashboard Preview](C:\Users\sriva\OneDrive\Pictures\Screenshotsoverview.png)
 📈 Use Cases
 Business performance tracking
 
